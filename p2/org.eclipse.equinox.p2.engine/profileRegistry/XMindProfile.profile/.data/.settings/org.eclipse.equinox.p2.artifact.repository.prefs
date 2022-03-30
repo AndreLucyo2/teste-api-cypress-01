@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable/name=Bundle pool
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable/provider=
@@ -17,6 +18,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_.eclipseext
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/uri=file\:/C\:/AppALS/XMind%208%20Update%209%20-%20Portable/.eclipseextension
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/version=1
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/name=dropins
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/provider=
@@ -25,6 +27,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configurati
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/C\:/AppALS/XMind%208%20Update%209%20-%20Portable/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1.0.0
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/provider=
@@ -33,6 +36,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.ecli
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/C\:/AppALS/XMind%208%20Update%209%20-%20Portable/p2/org.eclipse.equinox.p2.core/cache/
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/description=
+repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/enabled=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/isSystem=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/name=Bundle pool
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/provider=
@@ -41,6 +45,8 @@ repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XM
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/uri=file\:/C\:/Users/andre.lucio/Documents/_InsideALS/AplicativosALS/XMind%208%20Update%209%20-%20Portable/
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable/version=1.0.0
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/description=
+repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/enabled=true
+repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/isSystem=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/name=C\:\\Users\\andre.lucio\\Documents\\_InsideALS\\AplicativosALS\\XMind 8 Update 9 - Portable\\.eclipseextension
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/provider=
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/suffix=eclipse
@@ -48,6 +54,7 @@ repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XM
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/uri=file\:/C\:/Users/andre.lucio/Documents/_InsideALS/AplicativosALS/XMind%208%20Update%209%20-%20Portable/.eclipseextension
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_.eclipseextension/version=1
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/description=
+repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/enabled=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/isSystem=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/name=dropins
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/provider=
@@ -56,6 +63,7 @@ repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XM
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/C\:/Users/andre.lucio/Documents/_InsideALS/AplicativosALS/XMind%208%20Update%209%20-%20Portable/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1.0.0
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_C\:_Users_andre.lucio_Documents__InsideALS_AplicativosALS_XMind%208%20Update%209%20-%20Portable_p2_org.eclipse.equinox.p2.core_cache/provider=
