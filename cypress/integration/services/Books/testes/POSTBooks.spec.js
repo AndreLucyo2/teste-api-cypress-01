@@ -10,6 +10,7 @@ context('POST Books', () => {
 
             //teste01: Espera 200 de retorno ao fazer post: 
             expect(response.status).to.eq(200);
+
             //Teste 02: o corpo da resposta nao pode ser null
             expect(response.body.title).to.eq("Alien");
 
