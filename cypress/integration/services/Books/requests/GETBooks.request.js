@@ -10,7 +10,7 @@ function allBooks() {
     // cy.request - cliente http
     return cy.request({
         method: 'GET',
-        url: '/Books',
+        url: 'Books',
         failOnStatusCode: false,
     })
 }
