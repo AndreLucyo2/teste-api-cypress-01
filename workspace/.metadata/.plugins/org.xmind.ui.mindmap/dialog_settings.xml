@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.xmind.ui.popupDialog">
+		<item value="260" key="org.xmind.ui.internal.properties.StylesPropertySectionPart$SelectStyleDialogDIALOG_WIDTH"/>
+		<item value="1576" key="org.xmind.ui.internal.properties.StylesPropertySectionPart$SelectStyleDialogDIALOG_X_ORIGIN"/>
+		<item value="300" key="org.xmind.ui.internal.properties.StylesPropertySectionPart$SelectStyleDialogDIALOG_HEIGHT"/>
+		<item value="269" key="org.xmind.ui.internal.properties.StylesPropertySectionPart$SelectStyleDialogDIALOG_Y_ORIGIN"/>
+	</section>
+</section>

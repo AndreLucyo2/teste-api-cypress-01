@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209/name=Bundle pool
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209/provider=
@@ -17,6 +18,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209_.eclipseextension/type=org
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_.eclipseextension/uri=file\:/C\:/AppALS/XMind%208%20Update%209/.eclipseextension
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_.eclipseextension/version=1
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/name=dropins
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/provider=
@@ -25,6 +27,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/C\:/AppALS/XMind%208%20Update%209/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1.0.0
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/provider=
@@ -33,6 +36,7 @@ repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/C\:/AppALS/XMind%208%20Update%209/p2/org.eclipse.equinox.p2.core/cache/
 repositories/file\:_C\:_AppALS_XMind%208%20Update%209_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01/description=
+repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01/enabled=true
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01/isSystem=true
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01/name=Bundle pool
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01/provider=
@@ -48,6 +52,7 @@ repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_configuration_org.eclipse.osgi_718_data_listener_1925729951/uri=file\:/E\:/Noot_DELL/Dev_Software/WorkSpaceQA/teste-api-cypress-01/configuration/org.eclipse.osgi/718/data/listener_1925729951/
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_configuration_org.eclipse.osgi_718_data_listener_1925729951/version=1
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_p2_org.eclipse.equinox.p2.core_cache/enabled=true
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_p2_org.eclipse.equinox.p2.core_cache/name=download cache
 repositories/file\:_E\:_Noot_DELL_Dev_Software_WorkSpaceQA_teste-api-cypress-01_p2_org.eclipse.equinox.p2.core_cache/provider=
