@@ -1,11 +1,11 @@
-import * as PUTBooks from '../requests/PUTBooks.request.JS'
+import * as PUTBooks from '../requests/PUTBooks.request'
 import * as GETBooks from '../requests/GETBooks.request'
 import * as POSTBooks from '../requests/POSTBooks.request'
 
 describe('PUT Books', () => {
 
     //----------------------------------------------------
-    it.only('Alterar um livro', () => {
+    it('Alterar um livro', () => {
         //Obtem os livros antes de alterar:
         GETBooks.allBooks().then((resAllBooks) => {
 
@@ -36,7 +36,7 @@ describe('PUT Books', () => {
                 //Testa para nao ter o body null:
                 expect(resChangeBook.body).to.be.not.null;
                 //Espera que o titulo do livro seje alterado, teste se o titulo foi alterado mesmo:
-                expect(resChangeBook.body.title).to.be('Vingador do Futuro');
+                expect(resChangeBook.body.title).to.eq('Vingador do Futuro');
             })
         })
 

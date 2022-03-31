@@ -20,7 +20,7 @@ describe('DELETE Books', () => {
     });
 
     //----------------------------------------------------
-    it.only('Cria e exlui o Livro', () => {
+    it('Cria e exlui o Livro', () => {
 
         //cria o livro:
         POSTBooks.addBook().then((resAddBokk) => {

@@ -16,8 +16,9 @@ function changeBook(idBook) {
         headers: {
             'Content-Type': 'application/json',
         },
-        body: payloadChangeBook,
-        failOnStatusCode: false
+        failOnStatusCode: false,
+        body: payloadChangeBook
+
     })
 
 }
