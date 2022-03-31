@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 LNS_FEATURE_ENABLED=true
 LNS_SERVICE_ACTIVATED=true
+=======
+>>>>>>> b7d8359efe13e336c40b309dfbb2db13c0d8efa5
 SKIP_AUTO_ENABLE=true
 eclipse.preferences.version=1

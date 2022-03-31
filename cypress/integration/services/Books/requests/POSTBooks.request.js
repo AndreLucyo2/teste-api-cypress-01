@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-//importa o arquivo .json com o 
+//importa o arquivo .json com os dados do objeto
 const payloadAddBook = require('../payloads/add-book.json')
 
 function addBook() {

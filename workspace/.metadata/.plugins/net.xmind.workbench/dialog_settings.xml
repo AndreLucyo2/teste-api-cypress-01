@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="newsletterSubscription">
+<<<<<<< HEAD
 		<item value="1" key="launchCount"/>
+=======
+		<item value="2" key="launchCount"/>
+>>>>>>> b7d8359efe13e336c40b309dfbb2db13c0d8efa5
 	</section>
 </section>
