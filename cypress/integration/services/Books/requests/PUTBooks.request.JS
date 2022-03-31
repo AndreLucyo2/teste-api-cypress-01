@@ -4,6 +4,9 @@
 
 /// <reference types="cypress"/>
 
+//importa o arquivo .json com os dados do objeto
+const payloadChangeBook = require('../payloads/change-book.json')
+
 function changeBook(idBook) {
 
     return cy.request({
@@ -13,9 +16,8 @@ function changeBook(idBook) {
         headers: {
             'Content-Type': 'application/json',
         },
-        failOnStatusCode: false,
-
-        //https://youtu.be/rbObfNh2bno?t=3952 ---- parei aqui: 
+        body: payloadChangeBook,
+        failOnStatusCode: false
     })
 
 }
