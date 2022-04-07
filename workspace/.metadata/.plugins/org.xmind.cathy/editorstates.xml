@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editors>
+<editor id="org.xmind.ui.MindMapEditor" name="Teste API" partName="Teste API" title="Teste API" tooltip="E:\Noot_DELL\Dev_Software\WorkSpaceQA\teste-api-cypress-01\Teste API.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/Noot_DELL/Dev_Software/WorkSpaceQA/teste-api-cypress-01/Teste%20API.xmind">
+<state tempLocation="E:\Noot_DELL\Dev_Software\WorkSpaceQA\teste-api-cypress-01\workspace\temp\workbooks\003067ca-aa22-4533-95b4-6ced94d192d5.xmind.temp"/>
+</input>
+</editor>
+<editor id="org.xmind.ui.MindMapEditor" name="Cypress com typeScript" partName="Cypress com typeScript" title="Cypress com typeScript" tooltip="E:\Noot_DELL\Dev_Software\WorkSpaceQA\tdd-na-pratica01\Cypress com typeScript.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/Noot_DELL/Dev_Software/WorkSpaceQA/tdd-na-pratica01/Cypress%20com%20typeScript.xmind">
+<state tempLocation="E:\Noot_DELL\Dev_Software\WorkSpaceQA\teste-api-cypress-01\workspace\temp\workbooks\e413d8ac-f324-48d1-be73-1de3c34daa99.xmind.temp"/>
+</input>
+</editor>
+</editors>
